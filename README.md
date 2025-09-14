@@ -46,6 +46,9 @@ I’m passionate about:
 🔹 **Flashcard App (Streamlit)**  
 [![Streamlit App](https://img.shields.io/badge/🔗%20Open%20App-Streamlit-red?style=for-the-badge&logo=streamlit)](https://flashcard-app-wse4nwuznmdwoz4loptjg3.streamlit.app/)  
 
+🔹 **Fruit Manager App (Streamlit)**  
+[![Streamlit App](https://img.shields.io/badge/🔗%20Open%20App-Streamlit-red?style=for-the-badge&logo=streamlit)](https://cruchau-fruit-manager-app-1vyci5.streamlit.app/) 
+
 <hr style="border:0.3px solid #d3d3d3;margin:40px 0"/>
 
 ## 🌐 Connect with Me  
