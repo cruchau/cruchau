@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://github.com/cruchau/cruchau/blob/main/github_banner.png" alt="Data Science Banner" width="100%"/>
+<img src="https://github.com/cruchau/cruchau/blob/main/Screenshot%202025-09-14%20173457.png" alt="Data Science Banner" width="100%"/>
 
 # 👋 Hi, I'm Arnaud Cruchaudet  
 
