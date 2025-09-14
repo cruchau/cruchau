@@ -11,8 +11,6 @@ I’m passionate about:
 - Collecting, cleaning & transforming data via SQL  
 - Leveraging modern Python libraries for advanced analytics and visualization 
 
----
-
 ## 🛠 Skills and Experience  
 
 <p align="left">
@@ -23,8 +21,6 @@ I’m passionate about:
 </p>
 
 <hr style="border:0.3px solid #d3d3d3;margin:40px 0"/>
-
----
 
 ## 🧠 Data Science Frameworks & Libraries  
 
@@ -45,16 +41,12 @@ I’m passionate about:
 
 <hr style="border:0.3px solid #d3d3d3;margin:40px 0"/>
 
----
-
 ## 📂 Example Projects  
 
 🔹 **Flashcard App (Streamlit)**  
 [![Streamlit App](https://img.shields.io/badge/🔗%20Open%20App-Streamlit-red?style=for-the-badge&logo=streamlit)](https://flashcard-app-wse4nwuznmdwoz4loptjg3.streamlit.app/)  
 
 <hr style="border:0.3px solid #d3d3d3;margin:40px 0"/>
-
----
 
 ## 🌐 Connect with Me  
 
