@@ -55,7 +55,7 @@ I’m passionate about:
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="35"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/-cruchaudet/">
+  <a href="https://www.linkedin.com/in/a-cruchaudet/">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="35"/>
   </a>
 </p>
