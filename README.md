@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src=["https://images.openai.com/thumbnails/url/j8AKq3icu1mUUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw6szE7N8rIoDc7KcK4sz_DKt8jTNfHJcEzNs7DwNc43ifTKDwmJCE-xNPFMdndKSzErTMpKLzPOK4pUKwYA0PMpWg](https://github.com/cruchau/cruchau/blob/main/github_banner.png)" alt="Data Science Banner" width="100%"/>
+<img src="(https://github.com/cruchau/cruchau/blob/main/github_banner.png)" alt="Data Science Banner" width="100%"/>
 
 # 👋 Hi, I'm Arnaud Cruchaudet  
 
