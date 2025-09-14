@@ -1,11 +1,15 @@
 <!-- Banner -->
 <img src="https://images.openai.com/thumbnails/url/j8AKq3icu1mUUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw6szE7N8rIoDc7KcK4sz_DKt8jTNfHJcEzNs7DwNc43ifTKDwmJCE-xNPFMdndKSzErTMpKLzPOK4pUKwYA0PMpWg" alt="Data Science Banner" width="100%"/>
 
-# Arnaud Cruchaudet  
+# 👋 Hi, I'm Arnaud Cruchaudet  
 
-I'm Arnaud from London, and I do **dashboards, algorithms and process creation** at Amazon.  
-I really enjoy learning languages and frameworks like **Python and scikit-learn**, as well as building ML algorithms from scratch and exploring all their variants.  
-I also collect and clean data via **SQL** to better fit my model goals.  
+📍 Based in London | 📊 Data Scientist & Supply Chain Manager at Amazon  
+
+I design **dashboards, algorithms, and processes** to optimize operations.  
+I’m passionate about:  
+- Building ML algorithms from scratch & exploring their variants  
+- Collecting, cleaning & transforming data via SQL  
+- Leveraging modern Python libraries for advanced analytics and visualization 
 
 ---
 
