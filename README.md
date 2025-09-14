@@ -1,19 +1,15 @@
 <!-- Banner -->
 <img src="https://images.openai.com/thumbnails/url/j8AKq3icu1mUUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw6szE7N8rIoDc7KcK4sz_DKt8jTNfHJcEzNs7DwNc43ifTKDwmJCE-xNPFMdndKSzErTMpKLzPOK4pUKwYA0PMpWg" alt="Data Science Banner" width="100%"/>
 
-# 👋 Hi, I'm Arnaud Cruchaudet  
+# Arnaud Cruchaudet  
 
-📍 London | 📊 Data Scientist & Supply Chain Manager @ Amazon  
+I'm Arnaud from London, and I do **dashboards, algorithms and process creation** at Amazon.  
+I really enjoy learning languages and frameworks like **Python and scikit-learn**, as well as building ML algorithms from scratch and exploring all their variants.  
+I also collect and clean data via **SQL** to better fit my model goals.  
 
-I design **dashboards, algorithms, and processes** to optimize operations.  
-Passionate about:  
-- 🧠 Building ML algorithms from scratch & exploring their variants  
-- 🗄️ Collecting, cleaning & transforming data with SQL  
-- 📈 Leveraging Python libraries for analytics & visualization  
+---
 
-<hr style="border:0.5px solid #d3d3d3;margin:20px 0"/>
-
-## 🛠 Skills  
+## 🛠 Skills and Experience  
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
@@ -22,9 +18,9 @@ Passionate about:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" width="45" height="45"/>
 </p>
 
-<hr style="border:0.5px solid #d3d3d3;margin:20px 0"/>
+<hr style="border:0.3px solid #d3d3d3;margin:40px 0"/>
 
-## 🧠 Data Science Libraries  
+## 🧠 Data Science Frameworks & Libraries  
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45"/>
@@ -41,14 +37,14 @@ Passionate about:
   <img src="https://duckdb.org/images/DuckDB_Logo.svg" alt="DuckDB" width="90" height="45"/>
 </p>
 
-<hr style="border:0.5px solid #d3d3d3;margin:20px 0"/>
+<hr style="border:0.3px solid #d3d3d3;margin:40px 0"/>
 
 ## 📂 Example Projects  
 
 🔹 **Flashcard App (Streamlit)**  
 [![Streamlit App](https://img.shields.io/badge/🔗%20Open%20App-Streamlit-red?style=for-the-badge&logo=streamlit)](https://flashcard-app-wse4nwuznmdwoz4loptjg3.streamlit.app/)  
 
-<hr style="border:0.5px solid #d3d3d3;margin:20px 0"/>
+<hr style="border:0.3px solid #d3d3d3;margin:40px 0"/>
 
 ## 🌐 Connect with Me  
 
@@ -56,6 +52,7 @@ Passionate about:
   <a href="https://github.com/cruchau">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="35"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/-cruchaudet/">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="35"/>
   </a>
