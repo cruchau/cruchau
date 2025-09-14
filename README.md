@@ -58,7 +58,7 @@ I'm Arnaud from London, and I do dashboard and algorithms and process creation a
   <img src="https://duckdb.org/images/logo-dl/DuckDB_Logo_
 
 ## Examples of Work
-<img src:"" width="256" />
+<img src:"https://flashcard-app-wse4nwuznmdwoz4loptjg3.streamlit.app/" width="256" />
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cruchau)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/-cruchaudet/)  
