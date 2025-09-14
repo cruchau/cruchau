@@ -29,14 +29,14 @@ I’m passionate about:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
   <img src="https://avatars.githubusercontent.com/u/148395216?s=200&v=4" alt="Polars" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/scipy/scipy.org/main/static/images/logo.svg" alt="SciPy" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.svg" alt="scikit-learn" width="45" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="45" height="45"/>
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="80" height="45"/>
   <img src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4" alt="Plotly" width="45" height="45"/>
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.svg" alt="scikit-learn" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="45" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="65" height="45"/>
-  <img src="https://duckdb.org/images/DuckDB_Logo.svg" alt="DuckDB" width="90" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/DuckDB_logo.svg" alt="DuckDB" width="90" height="45"/>
 </p>
 
 <hr style="border:0.3px solid #d3d3d3;margin:40px 0"/>
